@@ -1,4 +1,5 @@
 >>>Project Overview
+
 This project analyzes Netflix data to uncover trends, patterns, and insights regarding content availability, user preferences, and platform evolution over time. The dataset includes information about movies, TV shows, release years, genres, ratings, duration, and other metadata.
 The goal of this analysis is to provide actionable insights about:
 Content distribution across years and genres
